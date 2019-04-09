@@ -1,0 +1,7 @@
+<resources>
+    <attr name="colorTabLayout" format="reference"/>
+    <attr name="colorTextTabLayout" format="reference"/>
+    <attr name="colorStatusBar" format="reference"/>
+
+
+</resources>
